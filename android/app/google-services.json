@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "501468834471",
+    "firebase_url": "https://comrade-9a75d.firebaseio.com",
+    "project_id": "comrade-9a75d",
+    "storage_bucket": "comrade-9a75d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501468834471:android:2c616351d04bb1a383c982",
+        "android_client_info": {
+          "package_name": "com.djay17.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501468834471-4ojf58se22cutmoatrau7rhu97sm2ge3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYBkTc3GP_NQsr60Be814eGmMLaVhWHfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501468834471-4ojf58se22cutmoatrau7rhu97sm2ge3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
